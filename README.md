@@ -1,4 +1,4 @@
-# mdnNoobTask.github.io
+# mdnNoobTask
 mdn beginner task
 
 [Sample Page](https://fe11d56.github.io/mdnNoobTask/)
