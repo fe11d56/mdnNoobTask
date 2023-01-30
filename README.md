@@ -1,4 +1,5 @@
 # mdnNoobTask.github.io
-mdn noob task
+mdn beginner task
+[Sample Page](https://fe11d56.github.io/mdnNoobTask/)
 
-https://developer.mozilla.org/en-US/docs/Learn
+[mdn](https://developer.mozilla.org/en-US/docs/Learn)
